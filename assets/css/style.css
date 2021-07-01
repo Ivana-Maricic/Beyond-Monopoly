@@ -88,14 +88,14 @@ a{
     color:white !important;
     background: -webkit-radial-gradient(#16E8C7, #000) !important;
 }
-
+.imgc{
+    background-color: #000 !important;
+}
+.imgc img{
+    opacity:0.5 !important;
+}
 /* about */
-.breadcrumb{
-    background: rgba(0, 0, 0, 0.911) !important;
-}
-.breadcrumb-item.active{
-    color:rgba(207, 205, 205, 0.815) !important;
-}
+
 .im-cover{
     background-image: url('../img/dice.jpg');
     background-size: cover;
